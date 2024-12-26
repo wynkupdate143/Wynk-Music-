@@ -9,7 +9,7 @@ from JioSavaan import LOGGER, app, userbot
 from JioSavaan.core.call import Anony
 from JioSavaan.misc import sudo
 from JioSavaan.plugins import ALL_MODULES
-from JioSavaa.utils.database import get_banned_users, get_gbanned
+from JioSavaan.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
 
