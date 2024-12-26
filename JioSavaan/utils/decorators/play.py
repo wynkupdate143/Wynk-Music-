@@ -9,9 +9,9 @@ from pyrogram.errors import (
 )
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from AnonXMusic import YouTube, app
-from AnonXMusic.misc import SUDOERS
-from AnonXMusic.utils.database import (
+from JioSavaan import YouTube, app
+from JioSavaan.misc import SUDOERS
+from JioSavaan.utils.database import (
     get_assistant,
     get_cmode,
     get_lang,
