@@ -37,7 +37,7 @@
    git clone https://github.com/jiosaavnmusic/JioSaavn && cd JioSaavn```
 6. **Install Requirements**
    ```bash
-   
+   pip3 install -U -r requirements.txt
    ```
 7. **Create .env  with sample.env**
    ```bash
