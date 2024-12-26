@@ -2,7 +2,7 @@ import math
 
 from pyrogram.types import InlineKeyboardButton
 
-from queue.py.utils.formatters import time_to_seconds
+from JioSavaan.utils.formatters import time_to_seconds
 
 
 def track_markup(_, videoid, user_id, channel, fplay):
