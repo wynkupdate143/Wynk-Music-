@@ -73,7 +73,7 @@ BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
 votemode = {}
-autoclean = []
+#autoclean = []
 confirmer = {}
 
 
