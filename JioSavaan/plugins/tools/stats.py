@@ -9,13 +9,13 @@ from pyrogram.types import InputMediaPhoto, Message
 from pytgcalls.__version__ import __version__ as pytgver
 
 import config
-from AnonXMusic import app
-from AnonXMusic.core.userbot import assistants
-from AnonXMusic.misc import SUDOERS, mongodb
-from AnonXMusic.plugins import ALL_MODULES
-from AnonXMusic.utils.database import get_served_chats, get_served_users, get_sudoers
-from AnonXMusic.utils.decorators.language import language, languageCB
-from AnonXMusic.utils.inline.stats import back_stats_buttons, stats_buttons
+from JioSavaan import app
+from JioSavaan.core.userbot import assistants
+from JioSavaan.misc import SUDOERS, mongodb
+from JioSavaan.plugins import ALL_MODULES
+from JioSavaan.utils.database import get_served_chats, get_served_users, get_sudoers
+from JioSavaan.utils.decorators.language import language, languageCB
+from JioSavaan.utils.inline.stats import back_stats_buttons, stats_buttons
 from config import BANNED_USERS
 
 
