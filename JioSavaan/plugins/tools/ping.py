@@ -3,11 +3,11 @@ from datetime import datetime
 from pyrogram import filters
 from pyrogram.types import Message
 
-from Jiosaavn import app
-from Jiosaavn.core.call import Anony
-from Jiosaavn.utils import bot_sys_stats
-from Jiosaavn.utils.decorators.language import language
-from Jiosaavn.utils.inline import supp_markup
+from JioSavaan import app
+from JioSavaan.core.call import Anony
+from JioSavaan.utils import bot_sys_stats
+from JioSavaan.utils.decorators.language import language
+from JioSavaan.utils.inline import supp_markup
 from config import BANNED_USERS, PING_IMG_URL
 
 
